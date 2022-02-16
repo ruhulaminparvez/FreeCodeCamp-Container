@@ -1,3 +1,4 @@
+<div align="center">
 # JavaScript Algorithms and Data Structures ♨
 
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, I'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
@@ -14,5 +15,6 @@ Note: Some browser extensions, such as ad-blockers and script-blockers can inter
 
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
+</div>
 
 
