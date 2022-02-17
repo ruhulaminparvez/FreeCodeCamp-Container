@@ -10,7 +10,7 @@ Along the way, I'll also learn two important programming styles or paradigms: Ob
 Note: Some browser extensions, such as ad-blockers and script-blockers can interfere with the tests. If you face issues, we recommend disabling extensions that modify or block the content of pages while taking the course.
 ```
 
-### Basic JavaScripts 
+### 0️⃣1️⃣ Basic JavaScripts 
 
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
@@ -18,7 +18,7 @@ JavaScript is a scripting language you can use to make web pages interactive. It
 
 
 
-### ES6
+### 0️⃣2️⃣ ES6
 
 ECMAScript, or ES, is a standardized version of JavaScript. Because all major browsers follow this specification, the terms ECMAScript and JavaScript are interchangeable.
 
