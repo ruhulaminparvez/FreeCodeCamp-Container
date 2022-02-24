@@ -29,7 +29,7 @@ ES6, released in 2015, added many powerful new features to the language. In this
 👉 [ES6 Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/02_ES6)
 
 
-### Regular Expressions  0️⃣2️⃣
+### Regular Expressions  0️⃣3️⃣
 
 Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are very powerful, but can be hard to read because they use special characters to make more complex, flexible matches.
 
