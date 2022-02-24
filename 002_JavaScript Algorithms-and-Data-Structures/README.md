@@ -27,3 +27,10 @@ Most of the JavaScript you've learned up to this point was in ES5 (ECMAScript 5)
 ES6, released in 2015, added many powerful new features to the language. In this course, you'll learn these new features, including arrow functions, destructuring, classes, promises, and modules.
 
 👉 [ES6 Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/02_ES6)
+
+
+### Regular Expressions  0️⃣2️⃣
+
+Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are very powerful, but can be hard to read because they use special characters to make more complex, flexible matches.
+
+👉 [Regular Expressions](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/03_Regular-Expressions)
