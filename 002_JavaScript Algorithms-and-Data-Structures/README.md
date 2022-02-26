@@ -10,9 +10,9 @@ Along the way, I'll also learn two important programming styles or paradigms: Ob
 ```
 Note: Some browser extensions, such as ad-blockers and script-blockers can interfere with the tests. If you face issues, we recommend disabling extensions that modify or block the content of pages while taking the course.
 ```
-</h1> 
+</h1>
 
-### Basic JavaScripts  0️⃣1️⃣ 
+### Basic JavaScripts  0️⃣1️⃣
 
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
@@ -45,3 +45,10 @@ Debugging is the process of going through your code, finding any issues, and fix
 Issues in code generally come in three forms: syntax errors that prevent your program from running, runtime errors where your code has unexpected behavior, or logical errors where your code doesn't do what you intended.
 
 👉 [Debugging Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/04_Debugging)
+
+
+### Basic Data Structures
+
+Data can be stored and accessed in many ways. We already know some common JavaScript data structures — arrays and objects. We'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
+
+👉 [Basic Data Structures Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/05_Basic-Data-Structures)
