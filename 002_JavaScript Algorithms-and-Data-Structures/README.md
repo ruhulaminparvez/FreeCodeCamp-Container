@@ -36,7 +36,7 @@ Regular expressions, often shortened to "regex" or "regexp", are patterns that h
 👉 [Regular Expressions](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/03_Regular-Expressions)
 
 
-### Debugging  0️⃣3️⃣
+### Debugging  0️⃣4️⃣
 
 Debugging is the process of going through your code, finding any issues, and fixing them.
 
