@@ -34,3 +34,12 @@ ES6, released in 2015, added many powerful new features to the language. In this
 Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are very powerful, but can be hard to read because they use special characters to make more complex, flexible matches.
 
 👉 [Regular Expressions](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/03_Regular-Expressions)
+
+
+### Debugging  0️⃣3️⃣
+
+Debugging is the process of going through your code, finding any issues, and fixing them.
+
+Issues in code generally come in three forms: syntax errors that prevent your program from running, runtime errors where your code has unexpected behavior, or logical errors where your code doesn't do what you intended.
+
+👉 [Debugging](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/03_Debugging)
