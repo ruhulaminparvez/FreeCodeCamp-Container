@@ -47,7 +47,7 @@ Issues in code generally come in three forms: syntax errors that prevent your pr
 👉 [Debugging Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/04_Debugging)
 
 
-### Basic Data Structures
+### Basic Data Structures 0️⃣5️⃣
 
 Data can be stored and accessed in many ways. We already know some common JavaScript data structures — arrays and objects. We'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
 
