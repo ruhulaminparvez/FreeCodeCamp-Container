@@ -42,4 +42,4 @@ Debugging is the process of going through your code, finding any issues, and fix
 
 Issues in code generally come in three forms: syntax errors that prevent your program from running, runtime errors where your code has unexpected behavior, or logical errors where your code doesn't do what you intended.
 
-👉 [Debugging](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/03_Debugging)
+👉 [Debugging](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/04_Debugging)
