@@ -54,7 +54,7 @@ Data can be stored and accessed in many ways. We already know some common JavaSc
 👉 [Basic Data Structures Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/05_Basic-Data-Structures)
 
 
-### Basic Algorithm Scripting 0️⃣5️⃣
+### Basic Algorithm Scripting 0️⃣6️⃣
 
 An algorithm is a series of step-by-step instructions that describe how to do something.
 
