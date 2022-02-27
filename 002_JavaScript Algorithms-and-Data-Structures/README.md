@@ -52,3 +52,12 @@ Issues in code generally come in three forms: syntax errors that prevent your pr
 Data can be stored and accessed in many ways. We already know some common JavaScript data structures — arrays and objects. We'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
 
 👉 [Basic Data Structures Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/05_Basic-Data-Structures)
+
+
+### Basic Algorithm Scripting 0️⃣5️⃣
+
+An algorithm is a series of step-by-step instructions that describe how to do something.
+
+To write an effective algorithm, it helps to break a problem down into smaller parts and think carefully about how to solve each part with code.
+
+👉 [Basic Algorithm Scripting Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/05_Basic-Algorithm-Scripting)
