@@ -63,7 +63,7 @@ To write an effective algorithm, it helps to break a problem down into smaller p
 👉 [Basic Algorithm Scripting Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/06_Basic-Algorithm-Scripting)
 
 
-### Object Oriented Programming 0️⃣6️⃣
+### Object Oriented Programming 0️⃣7️⃣
 
 OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do.
 
