@@ -68,3 +68,10 @@ To write an effective algorithm, it helps to break a problem down into smaller p
 OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do.
 
 👉 [Object Oriented Programming Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/07_Object-Oriented-Programming)
+
+
+### Functional Programming 0️⃣7️⃣
+
+Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs.
+
+👉 [Functional Programming Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/08_Functional-Programming)
