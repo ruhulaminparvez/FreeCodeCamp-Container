@@ -12,4 +12,4 @@ You'll also build a TCP client, and an Nmap and port scanner in Python. This wil
 
 This programming course focuses on HelmetJS, a type of middleware for Express-based applications that automatically sets HTTP headers. This way it can prevent sensitive information from unintentionally being passed between the server and client.
 
-👉 [Information Security With HelmetJS Codes](FreeCodeCamp-Container/tree/main/004_Information-Security/01_Information-Security-with-HelmetJS)
+👉 [Information Security With HelmetJS Codes](01_Information-Security-with-HelmetJS)
