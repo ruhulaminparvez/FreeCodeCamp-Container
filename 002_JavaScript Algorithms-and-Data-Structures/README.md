@@ -70,7 +70,7 @@ OOP, or Object Oriented Programming, is one of the major approaches to the softw
 👉 [Object Oriented Programming Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/07_Object-Oriented-Programming)
 
 
-### Functional Programming 0️⃣7️⃣
+### Functional Programming 0️⃣8️⃣
 
 Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs.
 
