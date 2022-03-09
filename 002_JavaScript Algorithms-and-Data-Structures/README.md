@@ -88,4 +88,4 @@ Now that I know the basics of algorithmic thinking, along with OOP and Functiona
 
 5 JavaScript projects to earn the JavaScript Algorithms and Data Structures
 
-👉 [Projects Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structure/10_Projects)
+👉 [Projects Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/10_Projects)
