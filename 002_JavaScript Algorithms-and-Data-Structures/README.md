@@ -77,9 +77,8 @@ Functional Programming is another popular approach to software development. In F
 👉 [Functional Programming Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/08_Functional-Programming)
 
 
-### Intermediate Algorithm Scripting
+### Intermediate Algorithm Scripting 0️⃣9️⃣
 
 Now that I know the basics of algorithmic thinking, along with OOP and Functional Programming, test skills with the Intermediate Algorithm Scripting challenges.
-
 
 👉 [Intermediate Algorithm Scripting Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/09_Intermediate-Algorithm-Scripting)
