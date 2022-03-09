@@ -75,3 +75,11 @@ OOP, or Object Oriented Programming, is one of the major approaches to the softw
 Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs.
 
 👉 [Functional Programming Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/08_Functional-Programming)
+
+
+### Intermediate Algorithm Scripting
+
+Now that I know the basics of algorithmic thinking, along with OOP and Functional Programming, test skills with the Intermediate Algorithm Scripting challenges.
+
+
+👉 [Intermediate Algorithm Scripting Codes](https://github.com/ruhulaminparvez/FreeCodeCamp-Container/tree/main/002_JavaScript%20Algorithms-and-Data-Structures/09_Intermediate-Algorithm-Scripting)
