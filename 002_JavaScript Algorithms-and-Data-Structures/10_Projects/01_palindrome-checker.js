@@ -1,4 +1,4 @@
-// PALINDROME TESTER USING REGEX
+ // PALINDROME TESTER USING REGEX
   function palindrome(str) {
     let onlyLetters = str.replace(/[`~ !@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, '');
     onlyLetters = onlyLetters.toLowerCase().split("");
